@@ -1,0 +1,2 @@
+import subprocess 
+subprocess.call('Windows PowerShell Script (.ps1)', shell=True)
